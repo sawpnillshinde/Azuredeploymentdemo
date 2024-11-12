@@ -1,0 +1,11 @@
+Werkzeug
+numpy
+scipy
+matplotlib
+pandas
+tpot
+seaborn
+cloudpickle
+scikit-learn
+joblib
+flask
